@@ -1,0 +1,28 @@
+body{
+    margin: 10px 60px;
+    float: center;
+    padding: 5px 10px 5px 10px;
+    border: 10px #bdc3c7 solid;
+    line height: 1.5;
+    font-family: source sans pro;
+}
+
+h4{
+    color: #3498db;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #2c3e50;
+}
+
+div{
+    border-bottom: 1px solid #bdc3c7;
+}
+
+.c1 {
+    border-left: 1px solid black;
+    height: 10px;
+
+
+}
